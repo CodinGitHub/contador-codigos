@@ -15,9 +15,7 @@
 body{
     font-family:sans-serif;
 }
-.main-container{
-    border: 1px solid red;
-}
+
 .counter{
     background-color: var(--color2);
     width: 375px;
@@ -60,6 +58,3 @@ body{
     font-size: 24px;
 
 }
-/* .btn:hover{
-    transform: translateY(4px);
-} */
