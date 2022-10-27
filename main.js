@@ -1,4 +1,5 @@
-let counterBtn = document.querySelector('.btn');
+let counterBtn = document.querySelector('.btn-count');
+let resetBtn = document.querySelector('.btn-reset');
 let counterNumber = document.querySelector('.counter__number');
 
 let counter = 0;
