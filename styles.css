@@ -18,7 +18,7 @@ body{
 .counter{
     background-color: var(--color2);
     width: 375px;
-    height: 90vh;
+    height: 80vh;
     margin: 30px auto;
     border-radius: 16px;
     display: flex;
