@@ -18,13 +18,14 @@ body{
 .counter{
     background-color: var(--color2);
     width: 375px;
-    height: 300px;
+    height: 90vh;
     margin: 30px auto;
     border-radius: 16px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
+    padding: 24px;
 }
 .counter__number{
     font-size: 120px;
@@ -64,4 +65,10 @@ body{
 .code-container{
     text-align: center;
     margin-top: 30px;
+}
+.code{
+    font-size: 64px;
+}
+.description{
+    font-size: 32px;
 }
